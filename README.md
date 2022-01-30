@@ -1,5 +1,5 @@
 # convex-hull
-A few convex hull algorithm implementations in C++
+A few convex hull algorithm implementations (one in C++ and the other in Python)
 
 ###### Convex Hull
 ![](./media/conv_hull_1.png)
